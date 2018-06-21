@@ -1,6 +1,6 @@
 # Toxic code explorer demo - custom for TW UK away day 2018
 
-Click [here](https://kornysietsma.github.io/toxic-code-explorer-demo-twuk2018/) to see the live demo!
+Click [here](https://kornysietsma.github.io/toxic-code-explorer-demo-twuk2018/index.html) to see the live demo!
 
 A fairly simple treemap to view simple language-agnostic code metrics:
 
