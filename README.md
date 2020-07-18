@@ -1,3 +1,5 @@
+**ARCHIVED** this is part of my older code tools - see https://kornysietsma.github.io/polyglot-tools-docs/ for latest stuff.
+
 # Toxic code explorer demo - custom for TW UK away day 2018
 
 Click [here](https://kornysietsma.github.io/toxic-code-explorer-demo-twuk2018/index.html) to see the live demo!
